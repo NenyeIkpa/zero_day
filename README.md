@@ -3,11 +3,11 @@ Tools used for this project are: VirtualBox and Vagrant
 
 ## VirtualBox
 This is a virtual machine(VM).
-[https://www.virtualbox.org/wiki/Downloads/ "Link to download VirtualBox"]
+https://www.virtualbox.org/wiki/Downloads/ "Link to download VirtualBox"
 
 ## Vagrant
 Vagrant is a command line utility for managing the life cycle of VMs.
-[https://developer.hashicorp.com/vagrant/downloads/ "Link to download Vagrant"]
+https://developer.hashicorp.com/vagrant/downloads/ "Link to download Vagrant"
 
 
 ### Step 1
